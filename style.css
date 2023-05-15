@@ -415,8 +415,7 @@ body:after{
   grid-template-columns:auto 1fr;
   grid-template-areas:
     "header header"
-    "nav nav"
-    "main main"
+    "nav main"
     "footer footer";
     }
     
